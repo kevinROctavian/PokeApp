@@ -2,7 +2,7 @@
 //  PokeAppUITestsLaunchTests.swift
 //  PokeAppUITests
 //
-//  Created by Erick Renata on 08/07/23.
+//  Created by Kevin Renata on 08/07/23.
 //
 
 import XCTest

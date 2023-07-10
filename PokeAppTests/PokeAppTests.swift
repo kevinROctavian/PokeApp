@@ -2,11 +2,11 @@
 //  PokeAppTests.swift
 //  PokeAppTests
 //
-//  Created by Erick Renata on 08/07/23.
+//  Created by Kevin Renata on 09/07/23.
 //
 
 import XCTest
-@testable import PokeApp
+import GoogleSignInSwift
 
 final class PokeAppTests: XCTestCase {
 
@@ -28,7 +28,7 @@ final class PokeAppTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        self.measure {
+        measure {
             // Put the code you want to measure the time of here.
         }
     }
